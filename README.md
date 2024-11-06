@@ -15,14 +15,14 @@
 
 **Customer Segmentation Analysis**: Leveraged clustering techniques on customer data to identify distinct segments, facilitating targeted marketing strategies that improved engagement and conversion rates.
 
-## ** Lets Connect**
+## Lets Connect
 🌐 **LinkedIn**:https://www.linkedin.com/in/dipankarraman
 
-## **Fun facts ⚡**
+## Fun facts ⚡
 - I love solving complex problems and enjoy challenges that test my analytical skills.
 - When I'm not analyzing data, you can find me exploring the latest tech trends, reading, or hiking in nature.
 
-## ** Future Aspiration**
+## Future Aspiration
 - Currently enhancing my machine learning skills to incorporate predictive analytics into my work.
 - Seeking opportunities to collaborate on open-source data projects and contribute to the data community.
 
