@@ -9,11 +9,23 @@
 - Programming Languages: Python
 -  Data Visualization Tools: Tableau, Power BI, Matplotlib, Seaborn
 - Tools & Technologies: Excel, Jupyter Notebooks, Google Analytics, SQL Server
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+## **Notable Project**
+-**Sales Performance Dashboard**: Created an interactive Tableau dashboard that visualizes key sales metrics, enabling the sales team to make data-driven decisions and identify growth opportunities.
+**Customer Segmentation Analysis**: Leveraged clustering techniques on customer data to identify distinct segments, facilitating targeted marketing strategies that improved engagement and conversion rates.
 
+## ** Lets Connect**
+🌐 **LinkedIn**:https://www.linkedin.com/in/dipankarraman
+
+## **Fun facts ⚡**
+- I love solving complex problems and enjoy challenges that test my analytical skills.
+- When I'm not analyzing data, you can find me exploring the latest tech trends, reading, or hiking in nature.
+
+## ** Future Aspiration**
+- Currently enhancing my machine learning skills to incorporate predictive analytics into my work.
+- Seeking opportunities to collaborate on open-source data projects and contribute to the data community.
+
+Feel free to reach out if you’d like to discuss data, projects, or potential collaborations!
 <!---
 DipankarRaman/DipankarRaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
