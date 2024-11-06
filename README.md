@@ -12,6 +12,7 @@
 - 
 ## **Notable Project**
 -**Sales Performance Dashboard**: Created an interactive Tableau dashboard that visualizes key sales metrics, enabling the sales team to make data-driven decisions and identify growth opportunities.
+
 **Customer Segmentation Analysis**: Leveraged clustering techniques on customer data to identify distinct segments, facilitating targeted marketing strategies that improved engagement and conversion rates.
 
 ## ** Lets Connect**
